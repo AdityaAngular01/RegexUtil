@@ -8,7 +8,7 @@
 You can install **RegexUtil** using npm:
 
 ```bash
-npm install @node/regex-utility
+npm install node-regex-utility
 ```
 
 ## Usage
