@@ -1,0 +1,48 @@
+{
+  "name": "regexutil",
+  "version": "1.0.0",
+  "description": "A lightweight and efficient Node.js utility package for working with regular expressions. RegexUtil simplifies common regex operations, making it easier to validate, parse, and manipulate strings in your projects.",
+  "main": "RegexUtil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaAngular01/RegexUtil.git"
+  },
+  "keywords": [
+    "regex",
+    "regex",
+    "utilities",
+    "regular",
+    "expressions",
+    "Node.js",
+    "JavaScript",
+    "regex",
+    "package",
+    "string",
+    "manipulation",
+    "regex",
+    "validation",
+    "regex",
+    "testing",
+    "regex",
+    "matching",
+    "predefined",
+    "patterns",
+    "regex",
+    "extraction",
+    "dynamic",
+    "regex",
+    "regex",
+    "helper",
+    "regex",
+    "toolkit"
+  ],
+  "author": "Aditya Kalambe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdityaAngular01/RegexUtil/issues"
+  },
+  "homepage": "https://github.com/AdityaAngular01/RegexUtil#readme"
+}
