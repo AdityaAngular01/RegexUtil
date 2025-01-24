@@ -116,3 +116,4 @@ Enjoy using RegexUtil in your projects! 😊
 - **Usage Instructions**: Example code to demonstrate how to use the package for various regex validations.
 - **List of Available Patterns**: Detailed list of all regex patterns available, grouped by category (e.g., emails, URLs, IPs, etc.).
 - **Contributions and License**: Instructions on contributing to the package and the MIT License for open-source usage.
+
