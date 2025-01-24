@@ -1,4 +1,3 @@
-```markdown
 # RegexUtil - A Utility Library for Regular Expressions
 
 **RegexUtil** is a comprehensive utility library containing commonly used regular expressions for validating, matching, and parsing various types of data like emails, URLs, phone numbers, IP addresses, dates, and more. This package helps you save time when working with regex patterns, providing easy-to-use and organized regex for various validation scenarios.
@@ -109,7 +108,6 @@ Feel free to fork, improve, and contribute to the RegexUtil package. Open an iss
 
 Enjoy using RegexUtil in your projects! 😊
 
-```
 
 ### Summary of Contents:
 - **Installation Instructions**: Easy installation through npm.
