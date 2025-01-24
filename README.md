@@ -1,6 +1,6 @@
-# RegexUtil - A Utility Library for Regular Expressions
+# node-regex-utility - A Utility Library for Regular Expressions
 
-**RegexUtil** is a comprehensive utility library containing commonly used regular expressions for validating, matching, and parsing various types of data like emails, URLs, phone numbers, IP addresses, dates, and more. This package helps you save time when working with regex patterns, providing easy-to-use and organized regex for various validation scenarios.
+**Node Regex Utility** is a comprehensive utility library containing commonly used regular expressions for validating, matching, and parsing various types of data like emails, URLs, phone numbers, IP addresses, dates, and more. This package helps you save time when working with regex patterns, providing easy-to-use and organized regex for various validation scenarios.
 
 ## Installation
 
@@ -102,7 +102,7 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributions
 
-Feel free to fork, improve, and contribute to the RegexUtil package. Open an issue or pull request if you encounter any bugs or have feature requests!
+Feel free to fork, improve, and contribute to the node-regex-utility package. Open an issue or pull request if you encounter any bugs or have feature requests!
 
 ---
 
