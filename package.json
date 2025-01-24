@@ -1,5 +1,5 @@
 {
-  "name": "@node/regex-utility",
+  "name": "node-regex-utility",
   "version": "1.0.0",
   "description": "A lightweight and efficient Node.js utility package for working with regular expressions. RegexUtil simplifies common regex operations, making it easier to validate, parse, and manipulate strings in your projects.",
   "main": "RegexUtil.js",

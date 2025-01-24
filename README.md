@@ -16,7 +16,7 @@ npm install node-regex-utility
 After installing, you can import the package and access the regex patterns grouped by categories.
 
 ```javascript
-const RegexUtil = require('@node/regex-utility');
+const RegexUtil = require('node-regex-utility');
 
 // Example usage: Validate an email address
 const isValidEmail = RegexUtil.emails.email.test("example@example.com");
