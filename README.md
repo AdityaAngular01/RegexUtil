@@ -8,7 +8,7 @@
 You can install **RegexUtil** using npm:
 
 ```bash
-npm install regex-util
+npm install @node/regex-utility
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ npm install regex-util
 After installing, you can import the package and access the regex patterns grouped by categories.
 
 ```javascript
-const RegexUtil = require('regex-util');
+const RegexUtil = require('@node/regex-utility');
 
 // Example usage: Validate an email address
 const isValidEmail = RegexUtil.emails.email.test("example@example.com");
